@@ -1,0 +1,132 @@
+@font-face {
+    font-family: "inter";
+    src: url(Inter.ttf);
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    padding-left: 141px;
+}
+h1{
+    font-family: "Inter";
+    font-size: 25px;
+}
+.id{
+    width: 201px;
+    height: 45px;
+    background: #FFFFFF;
+    border: 1px solid #E0E0E0;
+    border-radius: 10px;
+    padding-left: 16px;
+    font-family: "Inter";
+    font-weight: 100;
+}
+.title{
+    width: 593px;
+    height: 45px;
+    background: #FFFFFF;
+    border: 1px solid #E0E0E0;
+    border-radius: 10px;
+    padding-left: 16px;
+    font-family: "Inter";
+}
+.created{
+    width: 201px;
+    height: 45px;
+    background: #FFFFFF;
+    border: 1px solid #E0E0E0;
+    border-radius: 10px;
+    padding-left: 16px;
+    font-family: "Inter";
+}
+.search{
+    width: 115px;
+    height: 45px;
+    background: #FFD43A;
+    border-radius: 10px;
+    font-family: "Inter";
+    font-weight: 700;
+    border: none;
+}
+label{
+    display: block;
+    font-size: 15px;
+    font-family: "Inter";
+    font-weight: 700;
+    padding-left: 3px;
+    margin-bottom: 3px;
+}
+.action{
+    padding-left: 27px;
+}
+form{
+    display: flex;
+} 
+.box1{
+    margin-left: 14px;
+}
+.box2{
+    margin-left: 17px;
+}
+.box3{
+    margin-left: 16px;
+}
+table{
+    width: 1160px;
+    border-collapse: collapse;
+    border: 1px solid #DADADA;
+}
+th{
+    font-family: "Inter";
+    font-weight: 700;
+    font-size: 15px;
+    background: #F9F9F9;
+}
+td{
+    font-family: "Inter";
+    font-weight: 600;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.left{
+    text-align: left;
+    padding-left: 23px;
+}
+.th1{
+    width: 72px;
+    height: 57px;
+}
+.th2{
+    width: 444px;
+    text-align: left;
+    padding-left: 23px;
+}
+.th3{
+    width: 276px;
+}
+.th4{
+    width: 368px;
+}
+.button1{
+    color: #000000;
+    font-weight: 700;
+    font-family: "inter";
+    width: 115px;
+    height: 36px;
+    background: #FFD43A;
+    border-radius: 10px;
+    border: none;
+}
+.button2{
+    font-weight: 500;
+    font-family: "inter";
+    width: 115px;
+    height: 36px;
+    background: #E84949;
+    border-radius: 10px;
+    color: #FFFFFF;
+    border: none;
+}
